@@ -4,6 +4,7 @@ Flutter 1.12.13+hotfix9
 
 原项目地址：https://github.com/yukilzw/dy_flutter
 
+
 flutter重构的斗鱼直播APP
 
 首页、娱乐为Material组件开发；直播间、鱼吧为纯自定义编写。
@@ -11,6 +12,7 @@ flutter重构的斗鱼直播APP
 另外整合各类优质的第三方开源库，打造出原生APP丝滑的用户体验
 
 尽可能接入更多功能，方法附带注释，帮助你在使用flutter进行开发新的应用提供实用的借鉴案例
+
 
 
 包含功能：
